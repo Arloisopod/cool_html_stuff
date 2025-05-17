@@ -1,0 +1,35 @@
+eula=true
+
+server eula:
+
+Minecraft Server End User License Agreement (EULA)
+
+Last Updated: 5/17/2025
+
+Welcome to Isopod Craft Before you start playing, please read this End User License Agreement ("Agreement") carefully. By joining our server, you agree to abide by the terms outlined below.
+
+1. **License Grant**
+   - We grant you a non-exclusive, non-transferable license to access and use our Minecraft server for personal entertainment purposes.
+
+2. **User Responsibilities**
+   - Players must treat each other with respect and kindness.
+   - Abusive behavior, including harassment or hate speech, will not be tolerated.
+   - Cheating, exploiting bugs, or using unauthorized modifications is strictly prohibited.
+
+3. **Server Rules**
+   - Follow all server-specific rules posted in our Discord or website.
+   - Use chat responsibly; do not spam or use excessive caps.
+   - Do not impersonate staff members or other players.
+
+4. **Modifications and Add-ons**
+   - Players may suggest modifications or additions to the server, but these must be approved by the server administrators before implementation.
+
+5. **Termination**
+   - We reserve the right to terminate or suspend your access to the server at any time for violating this Agreement or server rules (/ban or /ban-ip).
+
+6. **Limitation of Liability**
+   - Isopod Craft shall not be liable for any damages arising from your use of the server or its community.
+
+By joining Isopod Craft, you acknowledge that you have read, understood, and agree to comply with this Agreement.
+
+Isopod Craft
